@@ -70,5 +70,15 @@
         <h6>sporthousexonacatlan@gmail.com</h6>
     </div>
 </div>
+<div class="col-md-9 map-area">
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d940.7638263721814!2d-99.55579912963576!3d19.41001625135808!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d2759becd35df9%3A0x66290f85405bfbe4!2sSporthouse%20plaza!5e0!3m2!1ses!2smx!4v1596077095958!5m2!1ses!2smx" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+
+    <div class="fitness-contact-info">
+        <a href="index.html" class="contact-logo d-block mb-30"><img src="img/core-img/logo2.png" alt=""></a>
+        <h6> Niños Heroes 46, Xonacatlan de Vicencio, 52060 Xonacatlán, Méx.</h6>
+        <h6>01(719)1052399</h6>
+        <h6>sporthousexonacatlan@gmail.com</h6>
+    </div>
+</div>
 
 @stop
