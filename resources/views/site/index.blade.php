@@ -123,7 +123,7 @@
                     <div class="row h-100 align-items-center">
                         <div class="col-12 col-lg-9">
                             <div class="hero-slides-content">
-                                <h2 data-animation="fadeInUp" data-delay="100ms">Mas que un gimanasio.</h2>
+                                <h2 data-animation="fadeInUp" data-delay="100ms">Mas que un gimnasio.</h2>
                                 <p data-animation="fadeInUp" data-delay="400ms">Un estilo de vida.</p>
                             </div>
                         </div>
